@@ -1,0 +1,54 @@
+h1 {
+  color:blue;
+  font-size:12px;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  font-sizez: 8px;
+  margin: 2;
+}
+
+.redAsterisk {
+  color: red;
+  text-align: center;
+}
+.orangeAsterisk {
+  color: orange;
+}
+.yellowAsterisk {
+  color: yellow;
+}
+.greenAsterisk {
+  color: green;
+}
+.blueAsterisk {
+  color: blue;
+}
+.purpleAsterisk {
+  color: purple;
+}
+.text {
+  color: #98AFC7;
+  text-align: center;
+}
+
+#sly {
+  content: url(unnamed-1.jpg);
+  style: width:125px;height:150px;
+}
+
+#renata {
+  content: url(unnamed.jpg);
+  style: width:125px;height:150px;
+}
+
+#arrow {
+  content: url(arrrow.png);
+  style: width: 500px; height: 500px;
+}
+
+
+#background {
+  content: url("1.jpg");
+}
