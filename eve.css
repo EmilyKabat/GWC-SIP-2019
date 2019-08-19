@@ -1,0 +1,77 @@
+#bday{
+  font-size: 12px;
+}
+
+#background{
+  width:500px;
+  height:1000px;
+  }
+#center{
+  font-size: 60px;
+  color: CadetBlue ;
+  font-family: 'Pacifico',cursive;
+}
+
+
+h1{
+  text-indent: 50px;
+  font-size:50px
+  font-family: monospace;
+}
+
+.links{
+  font-size: 20px;
+  margin: auto;
+  text-indent: 50px;
+
+}
+
+.link{
+  font-size: 25px;
+  margin: auto;
+  text-indent: 50px;
+}
+
+#title{
+  font-size:20px;
+}
+
+
+body{
+  margin-right: 80px;
+  margin-left: 80px;
+}
+
+
+#w2019{
+  font-size:70px;
+
+}
+
+.NM{
+  font-size:60px;
+  font-family:fantasy;
+}
+
+
+#end{
+  font-size:70px;
+  font-weight:bold;
+}
+
+.text{
+  font-size:35px;
+}
+
+
+
+.title{
+  font-size:50px;
+}
+
+
+#ti{
+  font-size:60px;
+  font-family: 'Pacifico',cursive;
+
+}
